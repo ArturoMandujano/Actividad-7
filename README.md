@@ -1,1 +1,3 @@
 # Actividad-7
+El primer método implementará un algoritmo para calcular n números primos. El método recibirá como parámetro el valor del atributo declarado; por ejemplo: si el atributo se inicializa en 100, el método calculará 100 números primos. Los números primos se almacenarán en un arreglo y el método regresará el arreglo con los n números primos.
+El segundo método implementará un algoritmo para calcular la Sucesión de Fibonacci. El método recibirá como parámetro el valor del atributo declarado; por ejemplo: si el atributo se inicializa en 100, el método calculará 100 números de la Sucesión de Fibonacci. Los números se almacenarán en un arreglo y el método regresará el arreglo con los n números primos.
